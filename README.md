@@ -1,2 +1,0 @@
-# Sudoku
-Mitt sudoku spel
